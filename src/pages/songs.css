@@ -1,0 +1,58 @@
+
+.music-player {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  text-align: center;
+}
+
+.search-bar {
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.song-list {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.song-item {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #ddd;
+}
+
+.song-item:hover {
+  background-color: #f1f1f1;
+}
+
+.player-controls {
+  margin-top: 20px;
+}
+
+audio {
+  width: 100%;
+  margin-top: 10px;
+}
+
+h3 {
+  margin: 0;
+}
