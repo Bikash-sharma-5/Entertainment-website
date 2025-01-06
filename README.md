@@ -1,5 +1,5 @@
 <h1>🎬 Movie Finder Website</h1>
-<h2>Visit now: https://musical-cajeta-5687ff.netlify.app</h2>
+<h2>Visit now: https://regal-hummingbird-d242ba.netlify.app</h2>
 <h3>🌟 Overview</h3>
 <p>A modern React-based website for exploring movies, anime, and the latest film releases. Users can search for movies, view ratings, and keep track of the latest films. The app also features user authentication, allowing users to create accounts, log in, and save their favorite movies or reviews.</p>
 
